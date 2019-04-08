@@ -1,0 +1,34 @@
+<DATA>
+	<ROW>
+		<game>
+		<barcode>021853004007</barcode>
+		<gamename>Rummikub</gamename>
+		<publish>7</publish>
+		<category>1</category>
+		<weight>1</weight>
+		<cooperative>NULL</cooperative>
+		<twoplayer></twoplayer>
+		<archived>NULL</archived>
+		<sorted>No</sorted>
+		<spareparts>NULL</spareparts>
+		<lastchecked>NULL</lastchecked>
+		<source>RK</source>
+	</game>
+	</ROW>
+	<ROW>
+		<game>
+		<barcode>025235000076</barcode>
+		<gamename>Trivial Pursuit</gamename>
+		<publish>13</publish>
+		<category>3</category>
+		<weight>1</weight>
+		<cooperative>NULL</cooperative>
+		<twoplayer>NULL</twoplayer>
+		<archived>NULL</archived>
+		<sorted>No</sorted>
+		<spareparts>NULL</spareparts>
+		<lastchecked>NULL</lastchecked>
+		<source>RK</source>
+	</game>
+	</ROW>
+</DATA>

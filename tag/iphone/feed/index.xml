@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iPhone &#8211; Daniel Owen Brown</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Let's Make Something Together</description>
+	<lastBuildDate>Fri, 05 Jan 2018 05:58:44 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>iPhone 7 Launch</title>
+		<link>./../../../iphone-7-launch/index.html</link>
+		<comments>./../../../iphone-7-launch/index.html#respond</comments>
+		<pubDate>Tue, 01 Aug 2017 04:07:12 +0000</pubDate>
+		<dc:creator><![CDATA[Dan Brown]]></dc:creator>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[Campaigns]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPhone 7 Launch]]></category>
+
+		<guid isPermaLink="false">http://daniel.thesplitpixel.com/?p=225</guid>
+		<description><![CDATA[We anticipated the iPhone 7 was going to be a big deal, and it was, so we created a series of high color photo compositions highlighting our offerings for the new device. This campaign was a lot of fun and easily one of my favorites.]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;">We anticipated the iPhone 7 was going to be a big deal, and it was, so we created a series of high color photo compositions highlighting our offerings for the new device. This campaign was a lot of fun and easily one of my favorites.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../iphone-7-launch/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
